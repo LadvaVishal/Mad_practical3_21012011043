@@ -5,7 +5,9 @@ LinearLayout, RelativeLayout,  ConstraintLayout, Card View, Image View, ScollVie
 
 Output:
 
-![image](https://github.com/LadvaVishal/Mad_practical3_21012011043/assets/113240232/3bd4f4b4-ea63-49b9-a3af-086104162a98)
+![image](https://github.com/LadvaVishal/Mad_practical3_21012011043/assets/113240232/dbcefc57-79f3-4f5f-b5b8-b90677ff4a8c)
 
-![WhatsApp Image 2023-09-30 at 18 44 44](https://github.com/LadvaVishal/Mad_practical3_21012011043/assets/113240232/c066c546-25de-4fc0-90af-dd78dcb10c5f)
+
+![image](https://github.com/LadvaVishal/Mad_practical3_21012011043/assets/113240232/28b771a0-1998-40cf-8411-1f810d04caa1)
+
 
